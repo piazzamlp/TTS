@@ -1,0 +1,899 @@
+<!DOCTYPE HTML>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>HQ Door Open - Pastebin.com</title>
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<script src="/js/jquery.min.js"></script>
+		<script src="/js/pastebin.min.v2.js"></script>
+
+		<link href="/cache/css_lang/text.css" rel="stylesheet" type="text/css" />		<link href="/i/pastebin.min.v4.css" rel="stylesheet" type="text/css" />
+		<!--[if lt IE 10]>
+			<link href="/i/pastebin.ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+
+ 
+		<style>body{-webkit-text-size-adjust:none;}</style>
+				<meta property="fb:app_id" content="231493360234820" />
+		<meta property="og:title" content="HQ Door Open - Pastebin.com" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="https://pastebin.com/ba1ZQnbM" />
+		<meta property="og:image" content="https://pastebin.com/i/facebook.png" />
+		<meta property="og:site_name" content="Pastebin" />
+		<meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
+		<link rel="canonical" href="https://pastebin.com/ba1ZQnbM" />
+		<meta name="robots" content="noindex,follow">		<meta name="viewport" content="width=device-width, initial-scale=0.70, maximum-scale=1.0, user-scalable=yes">
+		
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-58643-34', 'auto');
+			ga('require', 'displayfeatures');
+			ga('send', 'pageview');
+		</script>
+		<script type="text/javascript">
+			if (top != self)
+				top.location.href = location.href;
+		</script>
+
+					<script data-cfasync="false" async src="https://pub.freestar.io/pastebin/pubfig.min.js"></script>	</head>
+	<body>
+	<div id="main_frame">
+		<div id="jq-dropdown-1" class="jq-dropdown jq-dropdown-anchor-right jq-dropdown-scroll">
+			<ul class="jq-dropdown-menu">
+				
+				<li class="lih_640">
+					<form class="search_form_li" name="search_form_li" method="get" action="/search" id="cse-search-box-li">
+						<input class="search_input_li" type="text" name="q" size="5" value="" placeholder="search..." />
+					</form>
+
+				</li>
+				<li class="lih_div"></li>
+				<li onclick="location.href='/signup'" class="dd_su">Sign Up</li>
+				<li onclick="location.href='/login'" class="dd_lo">Login</li>
+				<li class="lih_div"></li>
+				<li onclick="location.href='/api'" class="lih_640">API</li>
+				<li onclick="location.href='/faq'" class="lih_640">FAQ</li>
+				<li onclick="location.href='/tools'" class="lih_640">Tools</li>
+				<li onclick="location.href='/trends'" class="lih_640">Trends</li>
+				<li onclick="location.href='/archive'" class="lih_640">Archive</li>			</ul>
+		</div>
+		<div id="header">
+			<div id="header_wrap">
+				<div id="header_top">
+					<div id="header_logo" onclick="location.href='/'">PASTEBIN</div>
+					<div id="header_new_paste" class="new_paste_button" onclick="location.href='/'">new paste</div>
+					<div id="header_links">
+						<a href="/trends">trends</a>
+						<a href="/api" class="mmh">API</a>
+						<a href="/tools" class="mmh">tools</a>
+						<a href="/faq" class="mmh">faq</a>
+					</div>
+					<div id="header_search">
+						<form class="search_form" name="search_form" method="get" action="/search" id="cse-search-box">
+							<input class="search_input" type="text" name="q" size="5" value="" placeholder="search..." />
+						</form>
+					</div>
+					
+					<div id="header_members">
+						<div id="header_dropdown" data-jq-dropdown="#jq-dropdown-1">&nbsp;</div>
+						<div id="header_icon"><a href="/login"><img src="/i/guest.png" class="header_icon" alt="" /></a></div>
+						<div id="header_user_frame">
+							<div id="header_username">Guest User</div>
+							<div id="header_user_status">-</div>
+						</div>
+						<div id="header_icons">
+							<a href="/login" title="My Pastebin"><img src="/i/t.gif" class="header_icons hi_mypastebin" alt="" /></a>
+							<a href="/messages" title="My Messages"><img src="/i/t.gif" class="header_icons hi_messages" alt="" /></a>
+							<a href="/alerts" title="My Alerts"><img src="/i/t.gif" class="header_icons hi_alerts" alt="" /></a>
+							<a href="/settings" title="My Settings"><img src="/i/t.gif" class="header_icons hi_settings" alt="" /></a>
+						</div>
+					</div>				</div>
+			</div>
+		</div>
+		<div id="super_frame">
+			<div id="monster_frame">
+				<div id="content_frame">
+					<div id="content_right">						
+												<div class="content_right_menu">
+									<div class="content_right_title"><a href="/archive">Public Pastes</a></div>
+									<div id="menu_2">
+										<ul class="right_menu"><li><a href="/xqa8g9wi">Untitled</a><span>C | 4 sec ago</span></li><li><a href="/qM61N3TG">Untitled</a><span>C++ | 5 sec ago</span></li><li><a href="/D6nXMxg1">Untitled</a><span>6 sec ago</span></li><li><a href="/04HQVCPS">Untitled</a><span>Java | 7 sec ago</span></li><li><a href="/sGBU9KHt">Untitled</a><span>11 sec ago</span></li><li><a href="/Pj5gpT52">Untitled</a><span>15 sec ago</span></li><li><a href="/JP4zAJMY">settings.py</a><span>Python | 16 sec ago</span></li><li><a href="/5aESQtMC">Untitled</a><span>16 sec ago</span></li></ul></div></div>						<div id="abrpm2"></div>
+						
+			<div style="padding: 0; width:160px;margin: 10px 0;clear:left;">
+				<script type="text/javascript"><!--
+					e9 = new Object();
+				    e9.size = "160x600,120x600";
+				//--></script>
+				<script type="text/javascript" src="https://tags.expo9.exponential.com/tags/Pastebincom/Safe/tags.js"></script>
+			</div>						<div id="steadfast" title="Pastebin is proudly hosted by Steadfast.net" onclick="location.href='http://steadfast.net/?utm_source=pastebin.com&amp;utm_medium=referral&amp;utm_content=hosting_by_banner&amp;utm_campaign=referral_20140118_x_x_pastebin_partner&amp;source=referral_20140118_x_x_pastebin_partner'"></div>
+					</div>
+					<div id="content_left"><div id="ie_msg"></div>
+		
+	<div class="paste_box_frame">
+		<div class="tweet h_800">
+			<div onclick="facebookpopup('/ba1ZQnbM'); return false;" id="b_facebook2" title="Share on Facebook!"><span id="b_facebook">SHARE</span></div>
+			<div onclick="twitpopup('/ba1ZQnbM'); return false;" id="b_twitter2" title="Share on Twitter!"><span id="b_twitter">TWEET</span></div>
+		</div>
+		<div class="paste_box_icon">
+			<img src="/i/t.gif" class="i_gb" alt="" />
+		</div>
+		<div class="paste_box_info">
+			<div class="paste_box_line1" title="HQ Door Open"><img src="/i/t.gif"  class="i_p10 " title="Unlisted paste, only people with this link can see this paste." alt="" /> <h1>HQ Door Open</h1></div>
+			<div class="paste_box_line2">
+				<img src="/i/t.gif" class="img_line t_us" alt="" style="margin-left:0"> <a href="/u/smatsuro">smatsuro</a>  <a href="/pro"><img src="/i/t.gif" class="pro_btn2" title="PRO User!" alt="" /></a> <a href="/message_compose?to=smatsuro"><img src="/i/t.gif" class="i_pm" title="Send a private message to: smatsuro" alt="" /></a>
+				<img src="/i/t.gif" class="img_line t_da" alt=""> <span title="Thursday 31st of March 2016 11:23:49 PM CDT">Mar 31st, 2016</span>
+				<img src="/i/t.gif" class="img_line t_vi" alt="" title="Unique visits to this paste"> 106
+				<img src="/i/t.gif" class="img_line t_ex" alt="" title="When this paste gets automatically deleted"> Never
+			</div>
+		</div>
+	</div>
+	<div id="abrpm"></div>
+			<div class="banner_728">
+				<script type="text/javascript"><!--
+					e9 = new Object();
+				    e9.size = "970x250,728x90";
+				//--></script>
+				<script type="text/javascript" src="https://tags.expo9.exponential.com/tags/Pastebincom/Safe/tags.js"></script>
+				
+			</div>
+			<div class="layout_clear"></div>
+		<div class="content_text no_padding">
+			<div id="notice" style="margin: 0 0 10px 0">
+				<b>Not a member of Pastebin yet?</b> <a href="/signup"><b><u>Sign Up</u></b></a>, it unlocks many cool features!
+			</div>
+		</div>
+	<div id="code_frame2">
+		<div id="code_frame">
+			<div id="code_buttons">
+				<span class="go_right">
+					<a href="/raw/ba1ZQnbM" class="buttonsm">raw</a><a href="/dl/ba1ZQnbM" class="buttonsm">download</a><a href="/index/ba1ZQnbM" class="buttonsm buttonhide">clone</a><a href="/embed/ba1ZQnbM" class="buttonsm buttonhide">embed</a><a href="/report/ba1ZQnbM" class="buttonsm">report</a><a href="/print/ba1ZQnbM" class="buttonsm buttonhide">print</a>
+				</span>
+				<span class="h_640"><a href="/archive/text" class="buttonsm" style="margin:0">text</a></span> 11.00 KB
+			</div>
+			<div id="selectable">
+				<ol class="text"><li class="li1"><div class="de1"># Exported from Wings 3D 1.5.4</div></li>
+<li class="li1"><div class="de1">mtllib HQ Door Open WDoor.mtl</div></li>
+<li class="li1"><div class="de1">o Cylinder2</div></li>
+<li class="li1"><div class="de1">#68 vertices, 66 faces</div></li>
+<li class="li2"><div class="de2">v 0.50000000 1.00626802 0.60000000</div></li>
+<li class="li1"><div class="de1">v -0.50000000 1.00626802 0.60000000</div></li>
+<li class="li1"><div class="de1">v -0.45048443 1.22320989 0.60000000</div></li>
+<li class="li1"><div class="de1">v -0.31174490 1.39718376 0.60000000</div></li>
+<li class="li1"><div class="de1">v -0.11126047 1.49373198 0.60000000</div></li>
+<li class="li2"><div class="de2">v 0.11126047 1.49373198 0.60000000</div></li>
+<li class="li1"><div class="de1">v 0.31174490 1.39718376 0.60000000</div></li>
+<li class="li1"><div class="de1">v 0.45048443 1.22320989 0.60000000</div></li>
+<li class="li1"><div class="de1">v 0.50000000 1.00626802 0.40000000</div></li>
+<li class="li1"><div class="de1">v -0.50000000 1.00626802 0.40000000</div></li>
+<li class="li2"><div class="de2">v -0.45048443 1.22320989 0.40000000</div></li>
+<li class="li1"><div class="de1">v -0.31174490 1.39718376 0.40000000</div></li>
+<li class="li1"><div class="de1">v -0.11126047 1.49373198 0.40000000</div></li>
+<li class="li1"><div class="de1">v 0.11126047 1.49373198 0.40000000</div></li>
+<li class="li1"><div class="de1">v 0.31174490 1.39718376 0.40000000</div></li>
+<li class="li2"><div class="de2">v 0.45048443 1.22320989 0.40000000</div></li>
+<li class="li1"><div class="de1">v -0.50000000 6.2680220e-3 0.40000000</div></li>
+<li class="li1"><div class="de1">v 0.50000000 6.2680220e-3 0.40000000</div></li>
+<li class="li1"><div class="de1">v 0.50000000 6.2680220e-3 0.60000000</div></li>
+<li class="li1"><div class="de1">v -0.50000000 6.2680220e-3 0.60000000</div></li>
+<li class="li2"><div class="de2">v 0.38290009 0.99307403 0.40000000</div></li>
+<li class="li1"><div class="de1">v 0.38290009 0.12336793 0.40000000</div></li>
+<li class="li1"><div class="de1">v -0.38290009 0.12336793 0.40000000</div></li>
+<li class="li1"><div class="de1">v -0.38290009 0.99307403 0.40000000</div></li>
+<li class="li1"><div class="de1">v -0.34226784 1.17109553 0.40000000</div></li>
+<li class="li2"><div class="de2">v -0.23685670 1.30327693 0.40000000</div></li>
+<li class="li1"><div class="de1">v -8.4533177e-2 1.37663207 0.40000000</div></li>
+<li class="li1"><div class="de1">v 8.4533177e-2 1.37663207 0.40000000</div></li>
+<li class="li1"><div class="de1">v 0.23685670 1.30327693 0.40000000</div></li>
+<li class="li1"><div class="de1">v 0.34226784 1.17109553 0.40000000</div></li>
+<li class="li2"><div class="de2">v -0.38290009 0.99307403 0.60000000</div></li>
+<li class="li1"><div class="de1">v -0.38290009 0.12336793 0.60000000</div></li>
+<li class="li1"><div class="de1">v 0.38290009 0.12336793 0.60000000</div></li>
+<li class="li1"><div class="de1">v 0.38290009 0.99307403 0.60000000</div></li>
+<li class="li1"><div class="de1">v 0.34226784 1.17109553 0.60000000</div></li>
+<li class="li2"><div class="de2">v 0.23685670 1.30327693 0.60000000</div></li>
+<li class="li1"><div class="de1">v 8.4533177e-2 1.37663207 0.60000000</div></li>
+<li class="li1"><div class="de1">v -8.4533177e-2 1.37663207 0.60000000</div></li>
+<li class="li1"><div class="de1">v -0.23685670 1.30327693 0.60000000</div></li>
+<li class="li1"><div class="de1">v -0.34226784 1.17109553 0.60000000</div></li>
+<li class="li2"><div class="de2">v -0.11126047 1.49373198 0.60000000</div></li>
+<li class="li1"><div class="de1">v 0.11126047 1.49373198 0.60000000</div></li>
+<li class="li1"><div class="de1">v 0.11126047 1.49373198 0.40000000</div></li>
+<li class="li1"><div class="de1">v -0.11126047 1.49373198 0.40000000</div></li>
+<li class="li1"><div class="de1">v -6.1260467e-2 1.54373198 0.55000000</div></li>
+<li class="li2"><div class="de2">v 6.1260467e-2 1.54373198 0.55000000</div></li>
+<li class="li1"><div class="de1">v 6.1260467e-2 1.54373198 0.45000000</div></li>
+<li class="li1"><div class="de1">v -6.1260467e-2 1.54373198 0.45000000</div></li>
+<li class="li1"><div class="de1">v -0.27906835 0.98356496 -0.24614074</div></li>
+<li class="li1"><div class="de1">v -0.27906835 0.98356496 0.49385926</div></li>
+<li class="li2"><div class="de2">v -0.27906835 1.14583748 0.45721774</div></li>
+<li class="li1"><div class="de1">v -0.27906835 1.27596994 0.35455048</div></li>
+<li class="li1"><div class="de1">v -0.27906835 1.34818800 0.20619200</div></li>
+<li class="li1"><div class="de1">v -0.27906835 1.34818800 4.1526512e-2</div></li>
+<li class="li1"><div class="de1">v -0.27906835 1.27596994 -0.10683197</div></li>
+<li class="li2"><div class="de2">v -0.27906835 1.14583748 -0.20949922</div></li>
+<li class="li1"><div class="de1">v -0.37906835 0.98356496 -0.24614074</div></li>
+<li class="li1"><div class="de1">v -0.37906835 0.98356496 0.49385926</div></li>
+<li class="li1"><div class="de1">v -0.37906835 1.14583748 0.45721774</div></li>
+<li class="li1"><div class="de1">v -0.37906835 1.27596994 0.35455048</div></li>
+<li class="li2"><div class="de2">v -0.37906835 1.34818800 0.20619200</div></li>
+<li class="li1"><div class="de1">v -0.37906835 1.34818800 4.1526512e-2</div></li>
+<li class="li1"><div class="de1">v -0.37906835 1.27596994 -0.10683197</div></li>
+<li class="li1"><div class="de1">v -0.37906835 1.14583748 -0.20949922</div></li>
+<li class="li1"><div class="de1">v -0.37906835 0.11888464 -0.24614074</div></li>
+<li class="li2"><div class="de2">v -0.27906835 0.11888464 -0.24614074</div></li>
+<li class="li1"><div class="de1">v -0.27906835 0.11888464 0.49385926</div></li>
+<li class="li1"><div class="de1">v -0.37906835 0.11888464 0.49385926</div></li>
+<li class="li1"><div class="de1">vt 4.5425109e-2 0.39176397</div></li>
+<li class="li1"><div class="de1">vt 4.5783880e-2 0.94135446</div></li>
+<li class="li2"><div class="de2">vt 4.8634054e-2 0.87301463</div></li>
+<li class="li1"><div class="de1">vt 4.9665152e-2 0.80427796</div></li>
+<li class="li1"><div class="de1">vt 4.9667122e-2 0.73023870</div></li>
+<li class="li1"><div class="de1">vt 6.2523784e-2 0.10270121</div></li>
+<li class="li1"><div class="de1">vt 6.2523784e-2 7.1167875e-2</div></li>
+<li class="li2"><div class="de2">vt 0.11498199 7.1167875e-2</div></li>
+<li class="li1"><div class="de1">vt 0.11498199 0.10270121</div></li>
+<li class="li1"><div class="de1">vt 0.12327774 0.39078621</div></li>
+<li class="li1"><div class="de1">vt 0.12665592 0.94470141</div></li>
+<li class="li1"><div class="de1">vt 0.12816380 0.72881935</div></li>
+<li class="li2"><div class="de2">vt 0.13103432 0.87558318</div></li>
+<li class="li1"><div class="de1">vt 0.13153286 0.80473909</div></li>
+<li class="li1"><div class="de1">vt 0.16452619 2.9003589e-2</div></li>
+<li class="li1"><div class="de1">vt 0.16452619 6.1979779e-2</div></li>
+<li class="li1"><div class="de1">vt 0.16725036 0.10270121</div></li>
+<li class="li2"><div class="de2">vt 0.16725036 7.1167875e-2</div></li>
+<li class="li1"><div class="de1">vt 0.16816398 0.34476658</div></li>
+<li class="li1"><div class="de1">vt 0.17251805 0.95916721</div></li>
+<li class="li1"><div class="de1">vt 0.17267397 0.73033258</div></li>
+<li class="li1"><div class="de1">vt 0.17517667 0.87796607</div></li>
+<li class="li2"><div class="de2">vt 0.17542646 0.80483853</div></li>
+<li class="li1"><div class="de1">vt 0.21928101 0.10270121</div></li>
+<li class="li1"><div class="de1">vt 0.21928101 7.1167875e-2</div></li>
+<li class="li1"><div class="de1">vt 0.24297106 0.80499214</div></li>
+<li class="li1"><div class="de1">vt 0.24301062 0.87736806</div></li>
+<li class="li2"><div class="de2">vt 0.24577698 0.34461594</div></li>
+<li class="li1"><div class="de1">vt 0.24667901 0.72983468</div></li>
+<li class="li1"><div class="de1">vt 0.24926721 0.95665598</div></li>
+<li class="li1"><div class="de1">vt 0.27120553 0.10270121</div></li>
+<li class="li1"><div class="de1">vt 0.27120553 7.1167875e-2</div></li>
+<li class="li2"><div class="de2">vt 0.28588473 0.87444185</div></li>
+<li class="li1"><div class="de1">vt 0.28647395 0.80582520</div></li>
+<li class="li1"><div class="de1">vt 0.29134915 0.38974716</div></li>
+<li class="li1"><div class="de1">vt 0.29141921 0.72768220</div></li>
+<li class="li1"><div class="de1">vt 0.29384481 0.94064589</div></li>
+<li class="li2"><div class="de2">vt 0.32323619 7.1167875e-2</div></li>
+<li class="li1"><div class="de1">vt 0.32323619 0.10270121</div></li>
+<li class="li1"><div class="de1">vt 0.33572228 0.38562623</div></li>
+<li class="li1"><div class="de1">vt 0.33572228 0.93490074</div></li>
+<li class="li1"><div class="de1">vt 0.33857774 0.72259868</div></li>
+<li class="li2"><div class="de2">vt 0.34358442 0.79978228</div></li>
+<li class="li1"><div class="de1">vt 0.34387951 0.86856272</div></li>
+<li class="li1"><div class="de1">vt 0.37550455 7.1167875e-2</div></li>
+<li class="li1"><div class="de1">vt 0.37550455 0.10270121</div></li>
+<li class="li1"><div class="de1">vt 0.38048844 0.95095308</div></li>
+<li class="li2"><div class="de2">vt 0.38068956 0.33985856</div></li>
+<li class="li1"><div class="de1">vt 0.38320847 0.72449765</div></li>
+<li class="li1"><div class="de1">vt 0.38685181 0.87161085</div></li>
+<li class="li1"><div class="de1">vt 0.38697932 0.79931823</div></li>
+<li class="li1"><div class="de1">vt 0.40855000 2.9003589e-2</div></li>
+<li class="li2"><div class="de2">vt 0.40855000 6.1979779e-2</div></li>
+<li class="li1"><div class="de1">vt 0.42796276 0.10270121</div></li>
+<li class="li1"><div class="de1">vt 0.42796276 7.1167875e-2</div></li>
+<li class="li1"><div class="de1">vt 0.44118810 0.32612353</div></li>
+<li class="li1"><div class="de1">vt 0.44118810 2.2456032e-2</div></li>
+<li class="li2"><div class="de2">vt 0.45455264 0.79896950</div></li>
+<li class="li1"><div class="de1">vt 0.45477486 0.87230560</div></li>
+<li class="li1"><div class="de1">vt 0.45711888 0.72451106</div></li>
+<li class="li1"><div class="de1">vt 0.45736631 0.95366953</div></li>
+<li class="li1"><div class="de1">vt 0.45822000 0.33930969</div></li>
+<li class="li2"><div class="de2">vt 0.47630714 0.32612353</div></li>
+<li class="li1"><div class="de1">vt 0.47630714 2.2456032e-2</div></li>
+<li class="li1"><div class="de1">vt 0.49840989 0.79908713</div></li>
+<li class="li1"><div class="de1">vt 0.49854524 2.4911587e-2</div></li>
+<li class="li1"><div class="de1">vt 0.49854524 0.32857908</div></li>
+<li class="li2"><div class="de2">vt 0.49902213 0.86993484</div></li>
+<li class="li1"><div class="de1">vt 0.50150019 0.72280751</div></li>
+<li class="li1"><div class="de1">vt 0.50342216 0.93925245</div></li>
+<li class="li1"><div class="de1">vt 0.50361991 0.38457553</div></li>
+<li class="li1"><div class="de1">vt 0.53366429 2.4911587e-2</div></li>
+<li class="li2"><div class="de2">vt 0.53366429 0.32857908</div></li>
+<li class="li1"><div class="de1">vt 0.55550397 3.3860656e-2</div></li>
+<li class="li1"><div class="de1">vt 0.55550397 0.26135393</div></li>
+<li class="li1"><div class="de1">vt 0.56514418 0.30404706</div></li>
+<li class="li1"><div class="de1">vt 0.58011243 0.72369897</div></li>
+<li class="li2"><div class="de2">vt 0.58053462 0.79823589</div></li>
+<li class="li1"><div class="de1">vt 0.58153056 0.38489834</div></li>
+<li class="li1"><div class="de1">vt 0.58162873 0.86724835</div></li>
+<li class="li1"><div class="de1">vt 0.58446403 0.93578181</div></li>
+<li class="li1"><div class="de1">vt 0.59215544 0.33828429</div></li>
+<li class="li2"><div class="de2">vt 0.63118785 0.35728452</div></li>
+<li class="li1"><div class="de1">vt 0.66405538 0.43718504</div></li>
+<li class="li1"><div class="de1">vt 0.66445765 0.49519104</div></li>
+<li class="li1"><div class="de1">vt 0.67451056 0.35728452</div></li>
+<li class="li1"><div class="de1">vt 0.69778235 0.40298702</div></li>
+<li class="li2"><div class="de2">vt 0.69865566 0.52891801</div></li>
+<li class="li1"><div class="de1">vt 0.69905793 0.58692402</div></li>
+<li class="li1"><div class="de1">vt 0.71354297 0.33828429</div></li>
+<li class="li1"><div class="de1">vt 0.74055424 0.30404706</div></li>
+<li class="li1"><div class="de1">vt 0.75019444 3.3860656e-2</div></li>
+<li class="li2"><div class="de2">vt 0.75019444 0.26135393</div></li>
+<li class="li1"><div class="de1">vt 0.77339127 3.2993990e-2</div></li>
+<li class="li1"><div class="de1">vt 0.77339127 0.26048727</div></li>
+<li class="li1"><div class="de1">vt 0.78303148 0.30318039</div></li>
+<li class="li1"><div class="de1">vt 0.81004274 0.33741762</div></li>
+<li class="li2"><div class="de2">vt 0.83526589 0.87132179</div></li>
+<li class="li1"><div class="de1">vt 0.83875466 0.87122084</div></li>
+<li class="li1"><div class="de1">vt 0.84090248 0.81589125</div></li>
+<li class="li1"><div class="de1">vt 0.84090248 0.81589125</div></li>
+<li class="li1"><div class="de1">vt 0.84347611 0.96873002</div></li>
+<li class="li2"><div class="de2">vt 0.84347611 0.90729309</div></li>
+<li class="li1"><div class="de1">vt 0.84807141 0.78448211</div></li>
+<li class="li1"><div class="de1">vt 0.84907515 0.35641785</div></li>
+<li class="li1"><div class="de1">vt 0.85532626 0.85551981</div></li>
+<li class="li1"><div class="de1">vt 0.85596551 0.83159228</div></li>
+<li class="li2"><div class="de2">vt 0.88552517 0.83159228</div></li>
+<li class="li1"><div class="de1">vt 0.88616441 0.85551981</div></li>
+<li class="li1"><div class="de1">vt 0.89239786 0.35641785</div></li>
+<li class="li1"><div class="de1">vt 0.89341926 0.78448211</div></li>
+<li class="li1"><div class="de1">vt 0.89541070 0.90729309</div></li>
+<li class="li2"><div class="de2">vt 0.89541070 0.96873002</div></li>
+<li class="li1"><div class="de1">vt 0.90058820 0.81589125</div></li>
+<li class="li1"><div class="de1">vt 0.90058820 0.81589125</div></li>
+<li class="li1"><div class="de1">vt 0.90273602 0.87122084</div></li>
+<li class="li1"><div class="de1">vt 0.90362092 0.87132179</div></li>
+<li class="li2"><div class="de2">vt 0.91988740 0.40144675</div></li>
+<li class="li1"><div class="de1">vt 0.92076071 0.52737774</div></li>
+<li class="li1"><div class="de1">vt 0.92116298 0.58538374</div></li>
+<li class="li1"><div class="de1">vt 0.93143027 0.33741762</div></li>
+<li class="li1"><div class="de1">vt 0.95408541 0.43517371</div></li>
+<li class="li2"><div class="de2">vt 0.95448768 0.49317972</div></li>
+<li class="li1"><div class="de1">vt 0.95844154 0.30318039</div></li>
+<li class="li1"><div class="de1">vt 0.96808175 3.2993990e-2</div></li>
+<li class="li1"><div class="de1">vt 0.96808175 0.26048727</div></li>
+<li class="li1"><div class="de1">vn 0.70044110 7.8920758e-2 0.70933333</div></li>
+<li class="li2"><div class="de2">vn -0.70044110 7.8920758e-2 0.70933333</div></li>
+<li class="li1"><div class="de1">vn -0.62894265 0.30288282 0.71602594</div></li>
+<li class="li1"><div class="de1">vn -0.43524182 0.54577598 0.71602594</div></li>
+<li class="li1"><div class="de1">vn -0.19403871 0.40292553 0.89442719</div></li>
+<li class="li1"><div class="de1">vn 0.19403871 0.40292553 0.89442719</div></li>
+<li class="li2"><div class="de2">vn 0.43524182 0.54577598 0.71602594</div></li>
+<li class="li1"><div class="de1">vn 0.62894265 0.30288282 0.71602594</div></li>
+<li class="li1"><div class="de1">vn 0.70044110 7.8920758e-2 -0.70933333</div></li>
+<li class="li1"><div class="de1">vn -0.70044110 7.8920758e-2 -0.70933333</div></li>
+<li class="li1"><div class="de1">vn -0.62894265 0.30288282 -0.71602594</div></li>
+<li class="li2"><div class="de2">vn -0.43524182 0.54577598 -0.71602594</div></li>
+<li class="li1"><div class="de1">vn -0.19403871 0.40292553 -0.89442719</div></li>
+<li class="li1"><div class="de1">vn 0.19403871 0.40292553 -0.89442719</div></li>
+<li class="li1"><div class="de1">vn 0.43524182 0.54577598 -0.71602594</div></li>
+<li class="li1"><div class="de1">vn 0.62894265 0.30288282 -0.71602594</div></li>
+<li class="li2"><div class="de2">vn -0.40824829 -0.40824829 -0.81649658</div></li>
+<li class="li1"><div class="de1">vn 0.40824829 -0.40824829 -0.81649658</div></li>
+<li class="li1"><div class="de1">vn 0.40824829 -0.40824829 0.81649658</div></li>
+<li class="li1"><div class="de1">vn -0.40824829 -0.40824829 0.81649658</div></li>
+<li class="li1"><div class="de1">vn -0.70044110 -7.8920758e-2 -0.70933333</div></li>
+<li class="li2"><div class="de2">vn -0.40824829 0.40824829 -0.81649658</div></li>
+<li class="li1"><div class="de1">vn 0.40824829 0.40824829 -0.81649658</div></li>
+<li class="li1"><div class="de1">vn 0.70044110 -7.8920758e-2 -0.70933333</div></li>
+<li class="li1"><div class="de1">vn 0.62894265 -0.30288282 -0.71602594</div></li>
+<li class="li1"><div class="de1">vn 0.43524182 -0.54577598 -0.71602594</div></li>
+<li class="li2"><div class="de2">vn 0.15533601 -0.68057151 -0.71602594</div></li>
+<li class="li1"><div class="de1">vn -0.15533601 -0.68057151 -0.71602594</div></li>
+<li class="li1"><div class="de1">vn -0.43524182 -0.54577598 -0.71602594</div></li>
+<li class="li1"><div class="de1">vn -0.62894265 -0.30288282 -0.71602594</div></li>
+<li class="li1"><div class="de1">vn 0.70044110 -7.8920758e-2 0.70933333</div></li>
+<li class="li2"><div class="de2">vn 0.40824829 0.40824829 0.81649658</div></li>
+<li class="li1"><div class="de1">vn -0.40824829 0.40824829 0.81649658</div></li>
+<li class="li1"><div class="de1">vn -0.70044110 -7.8920758e-2 0.70933333</div></li>
+<li class="li1"><div class="de1">vn -0.62894265 -0.30288282 0.71602594</div></li>
+<li class="li1"><div class="de1">vn -0.43524182 -0.54577598 0.71602594</div></li>
+<li class="li2"><div class="de2">vn -0.15533601 -0.68057151 0.71602594</div></li>
+<li class="li1"><div class="de1">vn 0.15533601 -0.68057151 0.71602594</div></li>
+<li class="li1"><div class="de1">vn 0.43524182 -0.54577598 0.71602594</div></li>
+<li class="li1"><div class="de1">vn 0.62894265 -0.30288282 0.71602594</div></li>
+<li class="li1"><div class="de1">vn -0.40824829 0.81649658 0.40824829</div></li>
+<li class="li2"><div class="de2">vn 0.40824829 0.81649658 0.40824829</div></li>
+<li class="li1"><div class="de1">vn 0.40824829 0.81649658 -0.40824829</div></li>
+<li class="li1"><div class="de1">vn -0.40824829 0.81649658 -0.40824829</div></li>
+<li class="li1"><div class="de1">vn -0.27059805 0.92387953 0.27059805</div></li>
+<li class="li1"><div class="de1">vn 0.27059805 0.92387953 0.27059805</div></li>
+<li class="li2"><div class="de2">vn 0.27059805 0.92387953 -0.27059805</div></li>
+<li class="li1"><div class="de1">vn -0.27059805 0.92387953 -0.27059805</div></li>
+<li class="li1"><div class="de1">vn 0.70928748 7.8112795e-2 -0.70057809</div></li>
+<li class="li1"><div class="de1">vn 0.70928748 7.8112795e-2 0.70057809</div></li>
+<li class="li1"><div class="de1">vn 0.71591029 0.30055535 0.63018960</div></li>
+<li class="li2"><div class="de2">vn 0.71606651 0.54368036 0.43779038</div></li>
+<li class="li1"><div class="de1">vn 0.45651813 0.86698770 0.19980872</div></li>
+<li class="li1"><div class="de1">vn 0.45651813 0.86698770 -0.19980872</div></li>
+<li class="li1"><div class="de1">vn 0.71606651 0.54368036 -0.43779038</div></li>
+<li class="li1"><div class="de1">vn 0.71591029 0.30055535 -0.63018960</div></li>
+<li class="li2"><div class="de2">vn -0.70928748 7.8112795e-2 -0.70057809</div></li>
+<li class="li1"><div class="de1">vn -0.70928748 7.8112795e-2 0.70057809</div></li>
+<li class="li1"><div class="de1">vn -0.71591029 0.30055535 0.63018960</div></li>
+<li class="li1"><div class="de1">vn -0.71606651 0.54368036 0.43779038</div></li>
+<li class="li1"><div class="de1">vn -0.45651813 0.86698770 0.19980872</div></li>
+<li class="li2"><div class="de2">vn -0.45651813 0.86698770 -0.19980872</div></li>
+<li class="li1"><div class="de1">vn -0.71606651 0.54368036 -0.43779038</div></li>
+<li class="li1"><div class="de1">vn -0.71591029 0.30055535 -0.63018960</div></li>
+<li class="li1"><div class="de1">vn -0.57735027 -0.57735027 -0.57735027</div></li>
+<li class="li1"><div class="de1">vn 0.57735027 -0.57735027 -0.57735027</div></li>
+<li class="li2"><div class="de2">vn 0.57735027 -0.57735027 0.57735027</div></li>
+<li class="li1"><div class="de1">vn -0.57735027 -0.57735027 0.57735027</div></li>
+<li class="li1"><div class="de1">g Cylinder2_Cylinder2_auv</div></li>
+<li class="li1"><div class="de1">usemtl Cylinder2_auv</div></li>
+<li class="li1"><div class="de1">s 1</div></li>
+<li class="li2"><div class="de2">f 1/49/1 9/60/9 16/58/16 8/51/8</div></li>
+<li class="li1"><div class="de1">f 1/49/1 19/48/19 18/62/18 9/60/9</div></li>
+<li class="li1"><div class="de1">f 1/49/1 34/42/34 33/40/33 19/48/19</div></li>
+<li class="li1"><div class="de1">f 2/29/2 31/36/31 40/34/40 3/26/3</div></li>
+<li class="li1"><div class="de1">f 3/26/3 11/23/11 10/21/10 2/29/2</div></li>
+<li class="li2"><div class="de2">f 3/26/3 40/34/40 39/33/39 4/27/4</div></li>
+<li class="li1"><div class="de1">f 4/27/4 12/22/12 11/23/11 3/26/3</div></li>
+<li class="li1"><div class="de1">f 4/27/4 39/33/39 38/37/38 5/30/5</div></li>
+<li class="li1"><div class="de1">f 5/30/5 13/20/13 12/22/12 4/27/4</div></li>
+<li class="li1"><div class="de1">f 5/100/5 38/104/38 37/111/37 6/115/6</div></li>
+<li class="li2"><div class="de2">f 6/47/6 37/41/37 36/44/36 7/50/7</div></li>
+<li class="li1"><div class="de1">f 6/115/6 42/114/42 41/101/41 5/100/5</div></li>
+<li class="li1"><div class="de1">f 7/50/7 15/59/15 14/61/14 6/47/6</div></li>
+<li class="li1"><div class="de1">f 7/50/7 36/44/36 35/43/35 8/51/8</div></li>
+<li class="li1"><div class="de1">f 8/51/8 16/58/16 15/59/15 7/50/7</div></li>
+<li class="li2"><div class="de2">f 8/51/8 35/43/35 34/42/34 1/49/1</div></li>
+<li class="li1"><div class="de1">f 9/60/9 21/69/21 30/65/30 16/58/16</div></li>
+<li class="li1"><div class="de1">f 10/21/10 17/19/17 20/28/20 2/29/2</div></li>
+<li class="li1"><div class="de1">f 10/21/10 24/12/24 23/10/23 17/19/17</div></li>
+<li class="li1"><div class="de1">f 11/23/11 25/14/25 24/12/24 10/21/10</div></li>
+<li class="li2"><div class="de2">f 12/22/12 26/13/26 25/14/25 11/23/11</div></li>
+<li class="li1"><div class="de1">f 13/20/13 27/11/27 26/13/26 12/22/12</div></li>
+<li class="li1"><div class="de1">f 13/98/13 44/99/44 43/116/43 14/117/14</div></li>
+<li class="li1"><div class="de1">f 14/117/14 28/112/28 27/103/27 13/98/13</div></li>
+<li class="li1"><div class="de1">f 15/59/15 29/68/29 28/70/28 14/61/14</div></li>
+<li class="li2"><div class="de2">f 16/58/16 30/65/30 29/68/29 15/59/15</div></li>
+<li class="li1"><div class="de1">f 17/123/17 23/119/23 22/88/22 18/85/18</div></li>
+<li class="li1"><div class="de1">f 18/85/18 19/84/19 20/122/20 17/123/17</div></li>
+<li class="li1"><div class="de1">f 18/62/18 22/71/22 21/69/21 9/60/9</div></li>
+<li class="li1"><div class="de1">f 19/84/19 33/87/33 32/118/32 20/122/20</div></li>
+<li class="li2"><div class="de2">f 20/28/20 32/35/32 31/36/31 2/29/2</div></li>
+<li class="li1"><div class="de1">f 21/69/21 34/77/34 35/78/35 30/65/30</div></li>
+<li class="li1"><div class="de1">f 22/71/22 33/79/33 34/77/34 21/69/21</div></li>
+<li class="li1"><div class="de1">f 23/119/23 32/120/32 33/89/33 22/88/22</div></li>
+<li class="li1"><div class="de1">f 24/12/24 31/5/31 32/1/32 23/10/23</div></li>
+<li class="li2"><div class="de2">f 25/14/25 40/4/40 31/5/31 24/12/24</div></li>
+<li class="li1"><div class="de1">f 26/13/26 39/3/39 40/4/40 25/14/25</div></li>
+<li class="li1"><div class="de1">f 27/11/27 38/2/38 39/3/39 26/13/26</div></li>
+<li class="li1"><div class="de1">f 28/112/28 37/113/37 38/102/38 27/103/27</div></li>
+<li class="li1"><div class="de1">f 29/68/29 36/80/36 37/81/37 28/70/28</div></li>
+<li class="li2"><div class="de2">f 30/65/30 35/78/35 36/80/36 29/68/29</div></li>
+<li class="li1"><div class="de1">f 42/114/42 43/116/43 47/109/47 46/108/46</div></li>
+<li class="li1"><div class="de1">f 43/116/43 44/99/44 48/106/48 47/109/47</div></li>
+<li class="li1"><div class="de1">f 44/99/44 41/101/41 45/107/45 48/106/48</div></li>
+<li class="li1"><div class="de1">f 46/108/46 45/107/45 41/101/41 42/114/42</div></li>
+<li class="li2"><div class="de2">f 46/108/46 47/109/47 48/106/48 45/107/45</div></li>
+<li class="li1"><div class="de1">g Cylinder2_Cylinder2_auv2</div></li>
+<li class="li1"><div class="de1">usemtl Cylinder2_auv2</div></li>
+<li class="li1"><div class="de1">s 1</div></li>
+<li class="li1"><div class="de1">f 49/55/49 57/54/57 64/46/64 56/45/56</div></li>
+<li class="li2"><div class="de2">f 49/67/49 66/66/66 65/72/65 57/73/57</div></li>
+<li class="li1"><div class="de1">f 50/75/50 67/74/67 66/92/66 49/93/49</div></li>
+<li class="li1"><div class="de1">f 51/76/51 56/91/56 55/90/55 52/82/52</div></li>
+<li class="li1"><div class="de1">f 51/8/51 59/9/59 58/6/58 50/7/50</div></li>
+<li class="li1"><div class="de1">f 52/82/52 55/90/55 54/86/54 53/83/53</div></li>
+<li class="li2"><div class="de2">f 52/18/52 60/17/60 59/9/59 51/8/51</div></li>
+<li class="li1"><div class="de1">f 53/25/53 61/24/61 60/17/60 52/18/52</div></li>
+<li class="li1"><div class="de1">f 54/32/54 62/31/62 61/24/61 53/25/53</div></li>
+<li class="li1"><div class="de1">f 55/38/55 63/39/63 62/31/62 54/32/54</div></li>
+<li class="li1"><div class="de1">f 56/91/56 51/76/51 50/75/50 49/93/49</div></li>
+<li class="li2"><div class="de2">f 56/45/56 64/46/64 63/39/63 55/38/55</div></li>
+<li class="li1"><div class="de1">f 57/95/57 58/126/58 59/124/59 64/96/64</div></li>
+<li class="li1"><div class="de1">f 57/95/57 65/94/65 68/125/68 58/126/58</div></li>
+<li class="li1"><div class="de1">f 58/56/58 68/57/68 67/64/67 50/63/50</div></li>
+<li class="li1"><div class="de1">f 60/121/60 63/97/63 64/96/64 59/124/59</div></li>
+<li class="li2"><div class="de2">f 61/110/61 62/105/62 63/97/63 60/121/60</div></li>
+<li class="li1"><div class="de1">f 66/15/66 67/52/67 68/53/68 65/16/65</div></li>
+<li class="li1"><div class="de1">g Cylinder2_default</div></li>
+<li class="li1"><div class="de1">usemtl default</div></li>
+<li class="li1"><div class="de1">s 1</div></li>
+<li class="li2"><div class="de2">f 5//5 41//41 44//44 13//13</div></li>
+<li class="li1"><div class="de1">f 14//14 43//43 42//42 6//6</div></li>
+</ol>
+			</div>
+		</div>
+	</div>
+	<div class="content_title no_border">RAW Paste Data<div id="bsa-footer"></div></div>
+	<div class="textarea_border" style="margin-bottom:0">
+		<textarea id="paste_code" class="paste_code" name="paste_code" onkeydown="return catchTab(this,event)"># Exported from Wings 3D 1.5.4
+mtllib HQ Door Open WDoor.mtl
+o Cylinder2
+#68 vertices, 66 faces
+v 0.50000000 1.00626802 0.60000000
+v -0.50000000 1.00626802 0.60000000
+v -0.45048443 1.22320989 0.60000000
+v -0.31174490 1.39718376 0.60000000
+v -0.11126047 1.49373198 0.60000000
+v 0.11126047 1.49373198 0.60000000
+v 0.31174490 1.39718376 0.60000000
+v 0.45048443 1.22320989 0.60000000
+v 0.50000000 1.00626802 0.40000000
+v -0.50000000 1.00626802 0.40000000
+v -0.45048443 1.22320989 0.40000000
+v -0.31174490 1.39718376 0.40000000
+v -0.11126047 1.49373198 0.40000000
+v 0.11126047 1.49373198 0.40000000
+v 0.31174490 1.39718376 0.40000000
+v 0.45048443 1.22320989 0.40000000
+v -0.50000000 6.2680220e-3 0.40000000
+v 0.50000000 6.2680220e-3 0.40000000
+v 0.50000000 6.2680220e-3 0.60000000
+v -0.50000000 6.2680220e-3 0.60000000
+v 0.38290009 0.99307403 0.40000000
+v 0.38290009 0.12336793 0.40000000
+v -0.38290009 0.12336793 0.40000000
+v -0.38290009 0.99307403 0.40000000
+v -0.34226784 1.17109553 0.40000000
+v -0.23685670 1.30327693 0.40000000
+v -8.4533177e-2 1.37663207 0.40000000
+v 8.4533177e-2 1.37663207 0.40000000
+v 0.23685670 1.30327693 0.40000000
+v 0.34226784 1.17109553 0.40000000
+v -0.38290009 0.99307403 0.60000000
+v -0.38290009 0.12336793 0.60000000
+v 0.38290009 0.12336793 0.60000000
+v 0.38290009 0.99307403 0.60000000
+v 0.34226784 1.17109553 0.60000000
+v 0.23685670 1.30327693 0.60000000
+v 8.4533177e-2 1.37663207 0.60000000
+v -8.4533177e-2 1.37663207 0.60000000
+v -0.23685670 1.30327693 0.60000000
+v -0.34226784 1.17109553 0.60000000
+v -0.11126047 1.49373198 0.60000000
+v 0.11126047 1.49373198 0.60000000
+v 0.11126047 1.49373198 0.40000000
+v -0.11126047 1.49373198 0.40000000
+v -6.1260467e-2 1.54373198 0.55000000
+v 6.1260467e-2 1.54373198 0.55000000
+v 6.1260467e-2 1.54373198 0.45000000
+v -6.1260467e-2 1.54373198 0.45000000
+v -0.27906835 0.98356496 -0.24614074
+v -0.27906835 0.98356496 0.49385926
+v -0.27906835 1.14583748 0.45721774
+v -0.27906835 1.27596994 0.35455048
+v -0.27906835 1.34818800 0.20619200
+v -0.27906835 1.34818800 4.1526512e-2
+v -0.27906835 1.27596994 -0.10683197
+v -0.27906835 1.14583748 -0.20949922
+v -0.37906835 0.98356496 -0.24614074
+v -0.37906835 0.98356496 0.49385926
+v -0.37906835 1.14583748 0.45721774
+v -0.37906835 1.27596994 0.35455048
+v -0.37906835 1.34818800 0.20619200
+v -0.37906835 1.34818800 4.1526512e-2
+v -0.37906835 1.27596994 -0.10683197
+v -0.37906835 1.14583748 -0.20949922
+v -0.37906835 0.11888464 -0.24614074
+v -0.27906835 0.11888464 -0.24614074
+v -0.27906835 0.11888464 0.49385926
+v -0.37906835 0.11888464 0.49385926
+vt 4.5425109e-2 0.39176397
+vt 4.5783880e-2 0.94135446
+vt 4.8634054e-2 0.87301463
+vt 4.9665152e-2 0.80427796
+vt 4.9667122e-2 0.73023870
+vt 6.2523784e-2 0.10270121
+vt 6.2523784e-2 7.1167875e-2
+vt 0.11498199 7.1167875e-2
+vt 0.11498199 0.10270121
+vt 0.12327774 0.39078621
+vt 0.12665592 0.94470141
+vt 0.12816380 0.72881935
+vt 0.13103432 0.87558318
+vt 0.13153286 0.80473909
+vt 0.16452619 2.9003589e-2
+vt 0.16452619 6.1979779e-2
+vt 0.16725036 0.10270121
+vt 0.16725036 7.1167875e-2
+vt 0.16816398 0.34476658
+vt 0.17251805 0.95916721
+vt 0.17267397 0.73033258
+vt 0.17517667 0.87796607
+vt 0.17542646 0.80483853
+vt 0.21928101 0.10270121
+vt 0.21928101 7.1167875e-2
+vt 0.24297106 0.80499214
+vt 0.24301062 0.87736806
+vt 0.24577698 0.34461594
+vt 0.24667901 0.72983468
+vt 0.24926721 0.95665598
+vt 0.27120553 0.10270121
+vt 0.27120553 7.1167875e-2
+vt 0.28588473 0.87444185
+vt 0.28647395 0.80582520
+vt 0.29134915 0.38974716
+vt 0.29141921 0.72768220
+vt 0.29384481 0.94064589
+vt 0.32323619 7.1167875e-2
+vt 0.32323619 0.10270121
+vt 0.33572228 0.38562623
+vt 0.33572228 0.93490074
+vt 0.33857774 0.72259868
+vt 0.34358442 0.79978228
+vt 0.34387951 0.86856272
+vt 0.37550455 7.1167875e-2
+vt 0.37550455 0.10270121
+vt 0.38048844 0.95095308
+vt 0.38068956 0.33985856
+vt 0.38320847 0.72449765
+vt 0.38685181 0.87161085
+vt 0.38697932 0.79931823
+vt 0.40855000 2.9003589e-2
+vt 0.40855000 6.1979779e-2
+vt 0.42796276 0.10270121
+vt 0.42796276 7.1167875e-2
+vt 0.44118810 0.32612353
+vt 0.44118810 2.2456032e-2
+vt 0.45455264 0.79896950
+vt 0.45477486 0.87230560
+vt 0.45711888 0.72451106
+vt 0.45736631 0.95366953
+vt 0.45822000 0.33930969
+vt 0.47630714 0.32612353
+vt 0.47630714 2.2456032e-2
+vt 0.49840989 0.79908713
+vt 0.49854524 2.4911587e-2
+vt 0.49854524 0.32857908
+vt 0.49902213 0.86993484
+vt 0.50150019 0.72280751
+vt 0.50342216 0.93925245
+vt 0.50361991 0.38457553
+vt 0.53366429 2.4911587e-2
+vt 0.53366429 0.32857908
+vt 0.55550397 3.3860656e-2
+vt 0.55550397 0.26135393
+vt 0.56514418 0.30404706
+vt 0.58011243 0.72369897
+vt 0.58053462 0.79823589
+vt 0.58153056 0.38489834
+vt 0.58162873 0.86724835
+vt 0.58446403 0.93578181
+vt 0.59215544 0.33828429
+vt 0.63118785 0.35728452
+vt 0.66405538 0.43718504
+vt 0.66445765 0.49519104
+vt 0.67451056 0.35728452
+vt 0.69778235 0.40298702
+vt 0.69865566 0.52891801
+vt 0.69905793 0.58692402
+vt 0.71354297 0.33828429
+vt 0.74055424 0.30404706
+vt 0.75019444 3.3860656e-2
+vt 0.75019444 0.26135393
+vt 0.77339127 3.2993990e-2
+vt 0.77339127 0.26048727
+vt 0.78303148 0.30318039
+vt 0.81004274 0.33741762
+vt 0.83526589 0.87132179
+vt 0.83875466 0.87122084
+vt 0.84090248 0.81589125
+vt 0.84090248 0.81589125
+vt 0.84347611 0.96873002
+vt 0.84347611 0.90729309
+vt 0.84807141 0.78448211
+vt 0.84907515 0.35641785
+vt 0.85532626 0.85551981
+vt 0.85596551 0.83159228
+vt 0.88552517 0.83159228
+vt 0.88616441 0.85551981
+vt 0.89239786 0.35641785
+vt 0.89341926 0.78448211
+vt 0.89541070 0.90729309
+vt 0.89541070 0.96873002
+vt 0.90058820 0.81589125
+vt 0.90058820 0.81589125
+vt 0.90273602 0.87122084
+vt 0.90362092 0.87132179
+vt 0.91988740 0.40144675
+vt 0.92076071 0.52737774
+vt 0.92116298 0.58538374
+vt 0.93143027 0.33741762
+vt 0.95408541 0.43517371
+vt 0.95448768 0.49317972
+vt 0.95844154 0.30318039
+vt 0.96808175 3.2993990e-2
+vt 0.96808175 0.26048727
+vn 0.70044110 7.8920758e-2 0.70933333
+vn -0.70044110 7.8920758e-2 0.70933333
+vn -0.62894265 0.30288282 0.71602594
+vn -0.43524182 0.54577598 0.71602594
+vn -0.19403871 0.40292553 0.89442719
+vn 0.19403871 0.40292553 0.89442719
+vn 0.43524182 0.54577598 0.71602594
+vn 0.62894265 0.30288282 0.71602594
+vn 0.70044110 7.8920758e-2 -0.70933333
+vn -0.70044110 7.8920758e-2 -0.70933333
+vn -0.62894265 0.30288282 -0.71602594
+vn -0.43524182 0.54577598 -0.71602594
+vn -0.19403871 0.40292553 -0.89442719
+vn 0.19403871 0.40292553 -0.89442719
+vn 0.43524182 0.54577598 -0.71602594
+vn 0.62894265 0.30288282 -0.71602594
+vn -0.40824829 -0.40824829 -0.81649658
+vn 0.40824829 -0.40824829 -0.81649658
+vn 0.40824829 -0.40824829 0.81649658
+vn -0.40824829 -0.40824829 0.81649658
+vn -0.70044110 -7.8920758e-2 -0.70933333
+vn -0.40824829 0.40824829 -0.81649658
+vn 0.40824829 0.40824829 -0.81649658
+vn 0.70044110 -7.8920758e-2 -0.70933333
+vn 0.62894265 -0.30288282 -0.71602594
+vn 0.43524182 -0.54577598 -0.71602594
+vn 0.15533601 -0.68057151 -0.71602594
+vn -0.15533601 -0.68057151 -0.71602594
+vn -0.43524182 -0.54577598 -0.71602594
+vn -0.62894265 -0.30288282 -0.71602594
+vn 0.70044110 -7.8920758e-2 0.70933333
+vn 0.40824829 0.40824829 0.81649658
+vn -0.40824829 0.40824829 0.81649658
+vn -0.70044110 -7.8920758e-2 0.70933333
+vn -0.62894265 -0.30288282 0.71602594
+vn -0.43524182 -0.54577598 0.71602594
+vn -0.15533601 -0.68057151 0.71602594
+vn 0.15533601 -0.68057151 0.71602594
+vn 0.43524182 -0.54577598 0.71602594
+vn 0.62894265 -0.30288282 0.71602594
+vn -0.40824829 0.81649658 0.40824829
+vn 0.40824829 0.81649658 0.40824829
+vn 0.40824829 0.81649658 -0.40824829
+vn -0.40824829 0.81649658 -0.40824829
+vn -0.27059805 0.92387953 0.27059805
+vn 0.27059805 0.92387953 0.27059805
+vn 0.27059805 0.92387953 -0.27059805
+vn -0.27059805 0.92387953 -0.27059805
+vn 0.70928748 7.8112795e-2 -0.70057809
+vn 0.70928748 7.8112795e-2 0.70057809
+vn 0.71591029 0.30055535 0.63018960
+vn 0.71606651 0.54368036 0.43779038
+vn 0.45651813 0.86698770 0.19980872
+vn 0.45651813 0.86698770 -0.19980872
+vn 0.71606651 0.54368036 -0.43779038
+vn 0.71591029 0.30055535 -0.63018960
+vn -0.70928748 7.8112795e-2 -0.70057809
+vn -0.70928748 7.8112795e-2 0.70057809
+vn -0.71591029 0.30055535 0.63018960
+vn -0.71606651 0.54368036 0.43779038
+vn -0.45651813 0.86698770 0.19980872
+vn -0.45651813 0.86698770 -0.19980872
+vn -0.71606651 0.54368036 -0.43779038
+vn -0.71591029 0.30055535 -0.63018960
+vn -0.57735027 -0.57735027 -0.57735027
+vn 0.57735027 -0.57735027 -0.57735027
+vn 0.57735027 -0.57735027 0.57735027
+vn -0.57735027 -0.57735027 0.57735027
+g Cylinder2_Cylinder2_auv
+usemtl Cylinder2_auv
+s 1
+f 1/49/1 9/60/9 16/58/16 8/51/8
+f 1/49/1 19/48/19 18/62/18 9/60/9
+f 1/49/1 34/42/34 33/40/33 19/48/19
+f 2/29/2 31/36/31 40/34/40 3/26/3
+f 3/26/3 11/23/11 10/21/10 2/29/2
+f 3/26/3 40/34/40 39/33/39 4/27/4
+f 4/27/4 12/22/12 11/23/11 3/26/3
+f 4/27/4 39/33/39 38/37/38 5/30/5
+f 5/30/5 13/20/13 12/22/12 4/27/4
+f 5/100/5 38/104/38 37/111/37 6/115/6
+f 6/47/6 37/41/37 36/44/36 7/50/7
+f 6/115/6 42/114/42 41/101/41 5/100/5
+f 7/50/7 15/59/15 14/61/14 6/47/6
+f 7/50/7 36/44/36 35/43/35 8/51/8
+f 8/51/8 16/58/16 15/59/15 7/50/7
+f 8/51/8 35/43/35 34/42/34 1/49/1
+f 9/60/9 21/69/21 30/65/30 16/58/16
+f 10/21/10 17/19/17 20/28/20 2/29/2
+f 10/21/10 24/12/24 23/10/23 17/19/17
+f 11/23/11 25/14/25 24/12/24 10/21/10
+f 12/22/12 26/13/26 25/14/25 11/23/11
+f 13/20/13 27/11/27 26/13/26 12/22/12
+f 13/98/13 44/99/44 43/116/43 14/117/14
+f 14/117/14 28/112/28 27/103/27 13/98/13
+f 15/59/15 29/68/29 28/70/28 14/61/14
+f 16/58/16 30/65/30 29/68/29 15/59/15
+f 17/123/17 23/119/23 22/88/22 18/85/18
+f 18/85/18 19/84/19 20/122/20 17/123/17
+f 18/62/18 22/71/22 21/69/21 9/60/9
+f 19/84/19 33/87/33 32/118/32 20/122/20
+f 20/28/20 32/35/32 31/36/31 2/29/2
+f 21/69/21 34/77/34 35/78/35 30/65/30
+f 22/71/22 33/79/33 34/77/34 21/69/21
+f 23/119/23 32/120/32 33/89/33 22/88/22
+f 24/12/24 31/5/31 32/1/32 23/10/23
+f 25/14/25 40/4/40 31/5/31 24/12/24
+f 26/13/26 39/3/39 40/4/40 25/14/25
+f 27/11/27 38/2/38 39/3/39 26/13/26
+f 28/112/28 37/113/37 38/102/38 27/103/27
+f 29/68/29 36/80/36 37/81/37 28/70/28
+f 30/65/30 35/78/35 36/80/36 29/68/29
+f 42/114/42 43/116/43 47/109/47 46/108/46
+f 43/116/43 44/99/44 48/106/48 47/109/47
+f 44/99/44 41/101/41 45/107/45 48/106/48
+f 46/108/46 45/107/45 41/101/41 42/114/42
+f 46/108/46 47/109/47 48/106/48 45/107/45
+g Cylinder2_Cylinder2_auv2
+usemtl Cylinder2_auv2
+s 1
+f 49/55/49 57/54/57 64/46/64 56/45/56
+f 49/67/49 66/66/66 65/72/65 57/73/57
+f 50/75/50 67/74/67 66/92/66 49/93/49
+f 51/76/51 56/91/56 55/90/55 52/82/52
+f 51/8/51 59/9/59 58/6/58 50/7/50
+f 52/82/52 55/90/55 54/86/54 53/83/53
+f 52/18/52 60/17/60 59/9/59 51/8/51
+f 53/25/53 61/24/61 60/17/60 52/18/52
+f 54/32/54 62/31/62 61/24/61 53/25/53
+f 55/38/55 63/39/63 62/31/62 54/32/54
+f 56/91/56 51/76/51 50/75/50 49/93/49
+f 56/45/56 64/46/64 63/39/63 55/38/55
+f 57/95/57 58/126/58 59/124/59 64/96/64
+f 57/95/57 65/94/65 68/125/68 58/126/58
+f 58/56/58 68/57/68 67/64/67 50/63/50
+f 60/121/60 63/97/63 64/96/64 59/124/59
+f 61/110/61 62/105/62 63/97/63 60/121/60
+f 66/15/66 67/52/67 68/53/68 65/16/65
+g Cylinder2_default
+usemtl default
+s 1
+f 5//5 41//41 44//44 13//13
+f 14//14 43//43 42//42 6//6</textarea>
+	</div><div id="abrpm3"></div>
+			<div style="padding: 10px 0 0 0;">
+				<script type="text/javascript"><!--
+					e9 = new Object();
+				    e9.size = "300x250,300x600";
+				//--></script>
+				<script type="text/javascript" src="https://tags.expo9.exponential.com/tags/Pastebincom/Safe/tags.js"></script>
+			</div>
+			<script type="text/javascript">$(document).ready(function(){$(".close").click(function(){return $("#paypal-overlay").hide(),createCookie("l2c",!0,1),!1})});</script>
+			<div id="paypal-overlay" class="promo-bar"> 
+				<div id="paypal_promo_img"></div>
+				<div id="paypal_promo_text">Challenge yourself this year...<br /> <a href="https://deals.pastebin.com/deals/online-courses?sort=best_sellers" target="_blank" style="text-decoration: underline dotted">Learn something new in 2017</a></div>
+				<a id="paypal-overlay-close" class="close"></a>
+			</div>						</div>
+					</div>
+				</div>
+			</div>
+			<div id="mid_footer">
+				<a href="/tools#chrome" title="Google Chrome Extension"><img src="/i/t.gif" alt="" class="icon24 chrome" /></a>
+				<a href="/tools#firefox" title="Firefox Extension"><img src="/i/t.gif" alt="" class="icon24 firefox" /></a>
+				<a href="/tools#iphone" title="iPhone/iPad Application"><img src="/i/t.gif" alt="" class="icon24 iphone" /></a>
+				<a href="/tools#windows" title="Windows Desktop Application"><img src="/i/t.gif" alt="" class="icon24 windows" /></a>
+				<a href="/tools#webos" title="webOS Application"><img src="/i/t.gif" alt="" class="icon24 webos" /></a>
+				<a href="/tools#android" title="Android Application"><img src="/i/t.gif" alt="" class="icon24 android" /></a>
+				<a href="/tools#macos" title="MacOS X Widget"><img src="/i/t.gif" alt="" class="icon24 macos" /></a>
+				<a href="/tools#opera" title="Opera Extension"><img src="/i/t.gif" alt="" class="icon24 opera" /></a>
+				<a href="/tools#pastebincl" title="Linux Application"><img src="/i/t.gif" alt="" class="icon24 unix" /></a>
+			</div>
+		</div>
+		<div id="footer">
+			<div id="footer_links">
+				<a href="/">create new paste</a> &nbsp;/&nbsp; <a href="https://deals.pastebin.com">deals</a><sup style="color:red">new!</sup> &nbsp;/&nbsp; <a href="/api">api</a> &nbsp;/&nbsp; <a href="/trends">trends</a> &nbsp;/&nbsp; <a href="/languages">syntax languages</a> &nbsp;/&nbsp; <a href="/faq">faq</a> &nbsp;/&nbsp; <a href="/tools">tools</a> &nbsp;/&nbsp; <a href="/privacy">privacy</a> &nbsp;/&nbsp; <a href="/cookies_policy">cookies</a> &nbsp;/&nbsp; <a href="/contact">contact</a> &nbsp;/&nbsp; <a href="/dmca">dmca</a> &nbsp;/&nbsp; <a href="/scraping">scraping</a>   &nbsp;/&nbsp; <a href="/pro">go <img src="/i/t.gif" alt="" title="Get a PRO account!" class="pro_btn_inv" /></a>
+				<br /><span class="h_800">Site design &amp; logo &copy; 2017 Pastebin; user contributions (pastes) licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="nofollow">cc by-sa 3.0</a> -- </span><a href="http://steadfast.net/services/dedicated-servers.php?utm_source=pastebin.com&amp;utm_medium=referral&amp;utm_content=footer_link_dedicated_server_hosting_by&amp;utm_campaign=referral_20140118_x_x_pastebin_partner&amp;source=referral_20140118_x_x_pastebin_partner" rel="nofollow" target="_blank">Dedicated Server Hosting</a> by <a href="http://steadfast.net/?utm_source=pastebin.com&amp;utm_medium=referral&amp;utm_content=footer_link_steadfast&amp;utm_campaign=referral_20140118_x_x_pastebin_partner&amp;source=referral_20140118_x_x_pastebin_partner" rel="nofollow" target="_blank">Steadfast</a>
+			</div>
+			<div id="footer_right" class="h_1024">
+				<a href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"><img src="/i/t.gif" alt="" class="icon40 facebook_circle" /></a>
+				<a href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"><img src="/i/t.gif" alt="" class="icon40 twitter_circle" /></a>
+			</div>
+		</div>
+
+				<script type="text/javascript"><!--
+				  e9 = new Object();
+				  e9.snackbar = true;
+				//--></script>
+				<script type="text/javascript" src="https://tags.expo9.exponential.com/tags/Pastebincom/Safe/tags.js"></script><script async type="text/javascript" src="https://cdn.fancybar.net/ac/fancybar.js?zoneid=1502&serve=C6ADVKE&placement=pastebin" id="_fancybar_js"></script>
+		<script type="text/javascript">
+			function abdd() {$("#adb-enabled").show(), $("#adb-not-enabled").hide(), $("#abrpm3").html("<center><iframe src='/_cube_custom.php' id='monkey_3' marginwidth='0' align='center' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' allowtransparency='true' width='300' height='250' style='width: 300px; height: 250px;'></iframe></center>"), $("#abrpm2").html("<iframe src='/_sky_custom.php' id='monkey' marginwidth='0' align='center' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' allowtransparency='true' width='160' height='600' style='width: 160px; height: 600px;'></iframe>"), $("#abrpm").html("<iframe src='/_lead_custom.php' id='monkey_2' marginwidth='0' align='center' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' allowtransparency='true' width='728' height='100' style='width: 728px; height: 100px;'></iframe>")}
+			function abnd(){$("#adb-enabled").hide(), $("#adb-not-enabled").show()}$(function(){}), "undefined" == typeof fuckAdBlock ? abdd() : (fuckAdBlock.setOption({debug: !1}), fuckAdBlock.onDetected(abdd).onNotDetected(abnd));
+			var $title=$("a,input,p,label,textarea[title],img,button,span");$.each($title,function(){$(this).tooltip({show:{delay:1},hide:{delay:1}})});
+		</script>		<script type="text/javascript">
+			function isIE(){var e=navigator.userAgent.toLowerCase();return-1!=e.indexOf("msie")?parseInt(e.split("msie")[1]):!1}if(isIE()&&isIE()<10){var div=document.getElementById("ie_msg");div.innerHTML=div.innerHTML+'<div id="old_browser">Your browser is outdated and insecure! Pastebin does not offer support for your browser. <a href="http://outdatedbrowser.com/" target="_blank" rel="nofollow">Click here to update your browser</a>!</div>'}
+		</script>
+		<div class="pub_300x250"></div><a href="#0" class="cd-top">Top</a>
+	</body>
+</html>
